@@ -1,0 +1,13 @@
+body {
+  background-color: #003e93;
+  font-family: "Varela Round", sans-serif;
+  color: #c5f5f7;
+}
+
+h1 {
+  text-align: center;
+}
+
+.display{
+  margin: 0 auto;
+}
